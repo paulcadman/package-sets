@@ -319,6 +319,15 @@
     "repo": "https://github.com/slamdata/purescript-css.git",
     "version": "v4.0.0"
   },
+    "csv": {
+    "dependencies": [
+      "arrays",
+      "ordered-collections",
+      "parsing"
+    ],
+    "repo": "https://github.com/nwolverson/purescript-csv.git",
+    "version": "v3.0.0"
+  },
   "datetime": {
     "dependencies": [
       "bifunctors",
